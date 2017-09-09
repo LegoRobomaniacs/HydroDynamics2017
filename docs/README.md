@@ -1,5 +1,7 @@
 ![Team dancing to Gummy Bear](https://github.com/LegoRobomaniacs/HydroDynamics2017/blob/master/docs/gummy-bear.jpg)
 
+![Bot is ready](https://github.com/LegoRobomaniacs/HydroDynamics2017/blob/master/docs/robot.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LegoRobomaniacs/HydroDynamics2017/edit/master/docs/README.md) to maintain and preview the content for your website in Markdown files.
