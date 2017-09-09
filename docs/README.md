@@ -1,6 +1,6 @@
-![Team dancing to Gummy Bear](https://github.com/LegoRobomaniacs/HydroDynamics2017/blob/master/docs/gummy-bear.jpg)
+![Team dancing to Gummy Bear](https://raw.github.com/LegoRobomaniacs/HydroDynamics2017/blob/master/docs/gummy-bear.jpg)
 
-![Bot is ready](https://github.com/LegoRobomaniacs/HydroDynamics2017/blob/master/docs/robot.jpg)
+![Bot is ready](https://raw.github.com/LegoRobomaniacs/HydroDynamics2017/blob/master/docs/robot.jpg)
 
 ## Welcome to GitHub Pages
 
